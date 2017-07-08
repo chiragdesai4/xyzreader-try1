@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/ea995901d3e481de5fa54a7d7f12bd5753ca6af1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ea995901d3e481de5fa54a7d7f12bd5753ca6af1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.castorflex.smoothprogressbar/library/1.1.0/b060c5bc7f71e7b043475fbee65b5cff35c599b0/library-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
